@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Restaurant Hugo"
 theme = "restaurant-hugo"
